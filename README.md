@@ -1,10 +1,10 @@
 # slider 
 
-![Image](https://github.com/user-attachments/assets/3cb45fa0-1e0c-4e99-bbfe-da027c819a13)
+![Image](https://github.com/user-attachments/assets/0a7d4ce6-cdd7-4afc-a68c-98b7f7650854)
  
 - [Demo Project](https://nastaranghorbanpour.github.io/personal-portfolio/)
 - Developed by Nastaran Ghorbanpour
-- Created - 2025-02-16
+- Created - 2025-02-21
 - Technologies Used : Html , css 
 - How to reach me : with my 
 [instagram](https://www.instagram.com/nestacode.lab/) and 
